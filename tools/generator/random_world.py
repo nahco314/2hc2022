@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 import global_value as gv
 import argparse
 from asyncio.subprocess import DEVNULL
